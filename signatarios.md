@@ -1,3 +1,3 @@
-# Signatários
+### Signatários
 
-* Sérgio Lopes, CTO na Alura
+- **Sérgio Lopes** CTO na Alura
