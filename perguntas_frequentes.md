@@ -1,4 +1,3 @@
-
 ### Faq ###
 
 <div class="faq__list">
