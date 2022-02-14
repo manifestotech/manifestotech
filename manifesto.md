@@ -1,17 +1,11 @@
-## Um manifesto do mercado de tecnologia brasileiro:
+## Um manifesto para o mercado de tecnologia brasileiro:
 
-O mercado de trabalho de tecnologia brasileiro vive um momento de desafios e oportunidades. 
-Há escassez de profissionais e uma forte expansão do setor; enquanto pessoas têm dificuldades 
-para encontrar o primeiro emprego e milhões estão desocupadas ou subempregadas no país.
+Estamos descobrindo maneiras melhores de lidar com a forte expansão do setor de tecnologia em um cenário de escassez de profissionais e passamos a valorizar:
 
-Enxergamos que a solução para esse quebra-cabeça exija uma mudança substancial na forma como 
-o mercado de tecnologia funciona e, assim, passamos a valorizar:
+- Contratar **pessoas em desenvolvimento** e não só as experientes.
 
-- Contratar pessoas iniciantes mais que competir pelas poucas com experiência.
+- Promover uma cultura de alto **crescimento com aprendizado** contínuo.
 
-- Promover aprendizado e crescimento mais que esperar conhecimento prévio.
+- Dar espaço para **novas pessoas** realizarem **entregas** em projetos reais.
 
-- Projetos simples e acessíveis mais que stacks complexas e esotéricas.
-
-Acreditamos que essas práticas são valiosas para a expansão do mercado de tecnologia 
-brasileiro gerando crescimento para pessoas, empresas e o país.
+Com esses valores, enxergamos crescimento para as pessoas, as empresas e o mercado.
