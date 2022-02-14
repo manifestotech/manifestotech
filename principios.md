@@ -1,23 +1,24 @@
 ### Princípios por trás do **manifesto**
 
-- Nossa maior prioridade é remover amarras para o crescimento do mercado de tecnologia brasileiro 
-e, assim, catalisar seu potencial de transformação social.
+- Nossa maior prioridade é remover amarras para a expansão do mercado de tecnologia brasileiro e, assim, catalisar seu potencial de transformação social.
 
-- É preciso oferecer vagas verdadeiramente iniciantes, com menos foco em conhecimento prévio e 
-experiência anterior e mais foco em acelerar o crescimento e desenvolvimento das pessoas.
+- As empresas e organizações precisam assumir o protagonismo nessa transformação do mercado de trabalho de tecnologia brasileiro e serem verdadeiras “empresas-escola”.
 
-- Uma cultura de aprendizado e crescimento, com oportunidades, mentoria e evolução, e a  construção 
-de uma verdadeira empresa-escola, vão muito além da oferta de bons cursos. 
+- É preciso oferecer vagas para iniciantes que exijam menos conhecimento prévio e experiência anterior e foquem mais em acelerar o desenvolvimento das pessoas.
+
+- Crescimento exige oportunidade e uma cultura de aprendizado, mentoria e evolução. Ser uma “empresa-escola” vai muito além de apenas oferecer bons cursos. 
+
+- Pessoas mais experientes são fundamentais no acompanhamento de pessoas em desenvolvimento. Seu papel também é apoiar, ensinar, inspirar e multiplicar.
 
 - Evolução pessoal acontece em ambientes seguros para errar, iterar e crescer.
 
-- Novas pessoas devem conseguir entregar valor para o negócio rapidamente. Não são apenas estudantes, 
-são pessoas produtivas.
+- Novas pessoas são capazes de entregar valor rapidamente em projetos reais se tiverem apoio e espaço para isso.
 
-- Simplificar os projetos, tecnologias e práticas diminui barreiras para entregas de alto valor.
+- Projetos e processos precisam ser acolhedores e acessíveis para quem está começando. Evitar complexidade diminui barreiras na entrada de novas pessoas.
 
-- É muitas vezes mais eficaz contratar pessoas iniciantes e investir em sua formação do que apenas 
-competir no pequeno mercado de pessoas experientes.
+- Muitas vezes, é mais eficaz contratar pessoas iniciantes e investir em seu crescimento, do que apenas competir pelas poucas pessoas experientes disponíveis no mercado.
 
-- O foco em vagas iniciais e de alto crescimento é uma oportunidade única de um futuro mais 
-próspero para mais pessoas e com maior inclusão social.
+- O foco em vagas iniciantes e de alto crescimento é uma oportunidade única para a inclusão de pessoas de perfis mais diversos e grupos subrepresentados.
+
+- Times mais diversos, socialmente e em conhecimento, são essenciais para a solução de problemas complexos em tecnologia.
+
