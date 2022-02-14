@@ -1,4 +1,4 @@
-## Princípios por trás do **manifesto**
+### Princípios por trás do **manifesto**
 
 - Nossa maior prioridade é remover amarras para o crescimento do mercado de tecnologia brasileiro 
 e, assim, catalisar seu potencial de transformação social.

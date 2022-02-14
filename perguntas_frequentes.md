@@ -1,4 +1,4 @@
-### Faq ###
+### Faq
 
 <div class="faq__list">
   <details class="faq__item">
