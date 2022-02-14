@@ -11,4 +11,4 @@ https://techmanifesto.org
 
 ## Site
 
-O site fica no repositório https://github.com/techmanifesto/manifesto-site
+O site fica no repositório https://github.com/manifestotech/manifesto-site
