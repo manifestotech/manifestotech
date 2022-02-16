@@ -5,17 +5,19 @@
 - **Mariel Reyes** CEO na Reprograma
 - **Phil Calçado** CTO no PicPay
 - **Alberto Souza** CTO People na Zup
-- **Renato Feder** Secretário da Educação do Paraná
 - **Marcell Almeida** CEO na PM3
+- **Ciro Verdi** Diretor de tecnologia no iFood
 - **Robson Rodrigues** CTO na Gupy
 - **Karen Kanaan** Diretora na 42 São Paulo 
 - **Camila Achutti** CEO da Mastertech e Presidente da SOMAS
-- **José Junior** CEO na Cubos Academy
+- **José Messias Jr.** CEO na Cubos Academy
+- **Victor Cavalcante** CEO na Lambda3
 - **Felipe Matos** CEO na Sirius
 - **Tomás Ferrari** CEO da GeekHunter
 - **Gabriel Massote** CTO na idwall
 - **Robson Marques** CEO na Rocketseat
-- **Alan Batista** Fundador da Rebase 
+- **Alan Batista** Fundador da Rebase
+- **Renato Feder** Secretário da Educação do Paraná 
 - **João Almeida** Fundador da Campus Code 
 - **Tatiana Di Rienzo** Fundadora da Remotar
 - **Vinicius Bufoni** CTO na Vindi
