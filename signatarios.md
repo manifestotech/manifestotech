@@ -21,4 +21,5 @@
 - **Tatiana Di Rienzo** Fundadora da Remotar
 - **Vinicius Bufoni** CTO na Vindi
 - **Wesley Willians** CEO na Full Cycle
+- **Caio Rodrigues** CEO na Toti Diversidade
 
