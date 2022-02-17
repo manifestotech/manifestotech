@@ -22,4 +22,4 @@
 - **Vinicius Bufoni** CTO na Vindi
 - **Wesley Willians** CEO na Full Cycle
 - **Caio Rodrigues** CEO na Toti Diversidade
-
+- **Gabriel Ferreira** CTO na Coodesh
