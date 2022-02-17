@@ -1,12 +1,9 @@
 ### Faq
 
-<div class="faq__list">
-  <details class="faq__item">
-      <summary class="faq__question">
-        O manifesto já foi lançado?
-      </summary>
-      <p class="faq__answer">
-        Aguarde mais um pouco!
-      </p>
-    </details>
-</div>
+<details>
+<summary>O manifesto já foi lançado?</summary>
+
+Aguarde *só* mais um pouco!
+
+O lançamento é em **breve**.
+</details>
