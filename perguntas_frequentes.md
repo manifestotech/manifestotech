@@ -34,7 +34,7 @@
 <details>
 <summary>Como apoiar e espalhar a mensagem do Manifesto?</summary>
 <p>Todas as pessoas inseridas no mercado de tecnologia são incentivadas a divulgar e apoiar publicamente os valores e princípios do Manifesto. A transformação só virá se um forte Movimento for criado em torno dessas mensagens.</p>
-<p>Se você já está em uma empresa ou organização, seja agente de mudança. Influencie na contratação de pessoas, incentive uma cultura de aprendizado saudável, hablite pessoas para essas novas atividades.</p>
+<p>Se você já está em uma empresa ou organização, seja agente de mudança. Influencie na contratação de pessoas, incentive uma cultura de aprendizado saudável, habilite pessoas para essas novas atividades.</p>
 <p>Se está procurando uma oportunidade para entrar no mercado, busque as iniciativas das empresas signatárias, que não só acreditam como praticam os valores do Manifesto.</p>
 </details>
 
