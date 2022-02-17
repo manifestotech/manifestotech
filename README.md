@@ -1,6 +1,6 @@
 # Manifesto Tech
 
-https://techmanifesto.org
+https://manifestotech.org/
 
 ## Estrutura
 
