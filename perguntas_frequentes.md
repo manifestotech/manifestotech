@@ -2,14 +2,14 @@
 
 <details>
 <summary>Por que o Manifesto foi criado?</summary>
-<p>Para ajudar o crescimento e a sustentabilidade do mercado brasileiro de tecnologia. Se você já notou que o estado atual inviabiliza o crescimento da sua equipe de tecnologia, você está no lugar certo.</p>
+<p>Para ajudar o crescimento e a sustentabilidade do mercado brasileiro de tecnologia. Se você já notou que o estado atual inviabiliza o crescimento da sua equipe de tecnologia, está no lugar certo.</p>
 </details>
 
 <details>
 <summary>Por que o Manifesto não tem versões em outras línguas?</summary>
 <p>Porque o Brasil enfrenta problemas específicos. Além da mão de obra especializada, que já era escassa, agora o mercado de trabalho é verdadeiramente internacional e remoto, ou seja: talentos brasileiros são cada vez mais prospectados por empresas estrangeiras com moeda mais forte que a nossa.</p>
 
-<p>Por um lado, é ótimo que pessoas brasileiras da área tech tenham acesso a essas oportunidades. Mas, ao mesmo tempo, o nosso mercado precisa se manter competitivo, e isso só será possível se apoiarmos o desenvolvimento e crescimento profissional desses talentos aqui no país.</p>
+<p>Por um lado, é ótimo que pessoas brasileiras da área tech tenham acesso a essas oportunidades - ao mesmo tempo, o nosso mercado precisa se manter competitivo, e isso só será possível se apoiarmos o desenvolvimento e crescimento profissional desses talentos aqui no país.</p>
 
 <p>Apesar do mundo todo, de uma forma ou de outra, enfrentar neste momento escassez de mão de obra de tecnologia, o Brasil tem uma questão mais crônica. É uma incoerência sofrer com falta de profissionais enquanto temos tantos desempregados e subempregados. Por outro lado, é uma oportunidade de desenvolvimento e transformação social. O Manifesto aponta nesta direção.</p>
 </details>
@@ -18,7 +18,7 @@
 <summary>Na prática, como posso implementar o Manifesto Tech na minha empresa?</summary>
 <p>Seguindo os três valores da forma mais próxima possível. Sabemos que, a curto prazo, a contratação de pessoas em desenvolvimento pode gerar entregas que não atendem inteiramente às expectativas do seu planejamento atual, e que as stacks mais comuns talvez não sejam as melhores para a sua equipe e projeto.</p>
 
-<p>No entanto, o Manifesto não é um checklist, tampouco um framework. Significa que você pode implementá-lo de diferentes formas. Inclusive, queremos construir em conjunto. O que você está fazendo para combater a escassez de talentos e pessoas em tech? Nós queremos saber.</p>
+<p>O Manifesto, no entanto,  não é um checklist tampouco um framework - e isso significa que você pode implementá-lo de diferentes formas. Queremos, inclusive, construir em conjunto. O que você está fazendo para combater a escassez de talentos e pessoas em tech? Nós queremos saber.</p>
 
 <p>A médio prazo, o tamanho e a senioridade (média) do seu time vai depender muito do sucesso da sua implementação do Manifesto.</p>
 </details>
