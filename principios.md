@@ -4,7 +4,7 @@
 
 - Empresas e organizações precisam assumir o protagonismo na transformação do mercado e serem verdadeiras empresas-escola, acolhendo e desenvolvendo mais pessoas de forma sustentável.
 
-- É mais eficaz contratar pessoas iniciantes e investir em seu crescimento, do que apenas competir pelas poucas pessoas experientes disponíveis.
+- É mais eficaz contratar pessoas iniciantes e investir em seu crescimento do que apenas competir pelas poucas pessoas experientes disponíveis.
 
 - Vagas para iniciantes devem exigir menos conhecimento prévio e experiência anterior e focar mais em acelerar o desenvolvimento das pessoas.
 
