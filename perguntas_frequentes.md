@@ -16,11 +16,11 @@
 
 <details>
 <summary>Na prática, como posso implementar o Manifesto Tech na minha empresa?</summary>
-<p>Seguindo os três valores da forma mais próxima possível. Sabemos que, a curto prazo, a contratação de pessoas em desenvolvimento pode gerar entregas que não atendem inteiramente às expectativas do seu planejamento atual, e que as stacks mais comuns talvez não sejam as melhores para a sua equipe e projeto.</p>
+<p>Seguindo os três valores da forma mais próxima possível. Sabemos que a curto prazo a contratação de pessoas em desenvolvimento pode gerar entregas que não atendem inteiramente às expectativas do seu planejamento atual e que as stacks mais comuns talvez não sejam as melhores para a sua equipe e projeto.</p>
 
 <p>No entanto, o Manifesto não é um checklist, tampouco um framework - e isso significa que você pode implementá-lo de diferentes formas. Queremos, inclusive, construir em conjunto. O que você está fazendo para combater a escassez de talentos e pessoas em tech? Nós queremos saber.</p>
 
-<p>A médio prazo, o tamanho e a senioridade (média) do seu time vai depender muito do sucesso da sua implementação do Manifesto.</p>
+<p>A médio prazo o tamanho e a senioridade (média) do seu time vai depender muito do sucesso da sua implementação do Manifesto.</p>
 </details>
 
 <details>
