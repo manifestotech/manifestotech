@@ -6,7 +6,6 @@
 - **Phil Calçado** CTO no PicPay
 - **Alberto Souza** CTO People na Zup
 - **Marcell Almeida** CEO na PM3
-- **Ciro Verdi** Diretor de tecnologia no iFood
 - **Robson Rodrigues** CTO na Gupy
 - **Karen Kanaan** Diretora na 42 São Paulo 
 - **Camila Achutti** CEO da Mastertech e Presidente da SOMAS
