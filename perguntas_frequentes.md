@@ -18,14 +18,14 @@
 <summary>Na prática, como posso implementar o Manifesto Tech na minha empresa?</summary>
 <p>Seguindo os três valores da forma mais próxima possível. Sabemos que, a curto prazo, a contratação de pessoas em desenvolvimento pode gerar entregas que não atendem inteiramente às expectativas do seu planejamento atual, e que as stacks mais comuns talvez não sejam as melhores para a sua equipe e projeto.</p>
 
-<p>O Manifesto, no entanto,  não é um checklist tampouco um framework - e isso significa que você pode implementá-lo de diferentes formas. Queremos, inclusive, construir em conjunto. O que você está fazendo para combater a escassez de talentos e pessoas em tech? Nós queremos saber.</p>
+<p>No entanto, o Manifesto não é um checklist, tampouco um framework - e isso significa que você pode implementá-lo de diferentes formas. Queremos, inclusive, construir em conjunto. O que você está fazendo para combater a escassez de talentos e pessoas em tech? Nós queremos saber.</p>
 
 <p>A médio prazo, o tamanho e a senioridade (média) do seu time vai depender muito do sucesso da sua implementação do Manifesto.</p>
 </details>
 
 <details>
 <summary>Porque a diversidade é importante e qual a relação com o Manifesto?</summary>
-<p>A necessidade de mais profissionais no mercado de tecnologia é uma oportunidade única de preencher esses espaços de forma mais diversa. De fazer diferente do que historicamente é quase sempre feito.</p>
+<p>A necessidade de mais profissionais no mercado de tecnologia é uma oportunidade única de preencher esses espaços de forma mais diversa, de fazer diferente do que historicamente é quase sempre feito.</p>
 <p>A tecnologia como profissão pode ter menos barreiras de entrada que a maioria das outras profissões do mesmo patamar de remuneração. Isso se empresas e o mercado abraçarem como valor fundamental essa transformação social. Por isso o Manifesto.</p>
 <p>Praticar a diversidade exige preparar seus times e a cultura organizacional para efetivamente receber pessoas diversas. Pessoas diversas partem de pontos diferentes, é preciso compreensão, apoio e acompanhamento para o contexto de cada um. Isso é inclusão verdadeira.</p>
 <p>A inclusão de grupos sub-representados leva a um futuro mais justo. Mas vamos além: times, empresas e o mercado com mais diversidade, são essencias para resolver os desafios mais complexos do mundo da tecnologia.</p>
@@ -34,7 +34,7 @@
 <details>
 <summary>Como apoiar e espalhar a mensagem do Manifesto?</summary>
 <p>Todas as pessoas inseridas no mercado de tecnologia são incentivadas a divulgar e apoiar publicamente os valores e princípios do Manifesto. A transformação só virá se um forte Movimento for criado em torno dessas mensagens.</p>
-<p>Se você já está em uma empresa ou organização, seja agente de mudança. Influencie na contratação de pessoas, incentive uma cultura de aprendizado saudável, hablite pessoas para essas novas atividades.</p>
+<p>Se você já está em uma empresa ou organização, seja agente de mudança. Influencie na contratação de pessoas, incentive uma cultura de aprendizado saudável, habilite pessoas para essas novas atividades.</p>
 <p>Se está procurando uma oportunidade para entrar no mercado, busque as iniciativas das empresas signatárias, que não só acreditam como praticam os valores do Manifesto.</p>
 </details>
 
