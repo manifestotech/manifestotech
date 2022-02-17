@@ -53,4 +53,3 @@
 <summary>Onde está o repositório?</summary>
 <p>Todo texto, conteúdo e este site estão publicados no Github no repositório <a href="https://github.com/manifestotech/manifestotech">techmanifesto/techmanifesto</a>. Issues com correções são bem vindas.</p>
 </details>
-

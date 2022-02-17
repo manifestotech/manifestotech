@@ -8,7 +8,7 @@
 
 - Vagas para iniciantes devem exigir menos conhecimento prévio e experiência anterior e focar mais em acelerar o desenvolvimento das pessoas.
 
-- Crescimento exige oportunidade e uma cultura saudável de aprendizado, mentoria e evolução. Ser empresa-escola vai muito além de apenas oferecer bons cursos. 
+- Crescimento exige oportunidade e uma cultura saudável de aprendizado, mentoria e evolução. Ser empresa-escola vai muito além de apenas oferecer bons cursos.
 
 - Evolução pessoal acontece em ambientes seguros para poder errar, iterar e aprender.
 
@@ -21,4 +21,3 @@
 - O foco em vagas para iniciantes que impulsionam crescimento abre importante espaço para a inclusão de pessoas de perfis mais diversos e grupos sub-representados.
 
 - Times mais diversos, socialmente e em conhecimento, são essenciais para a solução de problemas complexos em tecnologia.
-

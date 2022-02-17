@@ -7,7 +7,7 @@
 - **Alberto Souza** CTO People na Zup
 - **Marcell Almeida** CEO na PM3
 - **Robson Rodrigues** CTO na Gupy
-- **Karen Kanaan** Diretora na 42 São Paulo 
+- **Karen Kanaan** Diretora na 42 São Paulo
 - **Camila Achutti** CEO da Mastertech e Presidente da SOMAS
 - **José Messias Jr.** CEO na Cubos Academy
 - **Victor Cavalcante** CEO na Lambda3
@@ -16,8 +16,8 @@
 - **Gabriel Massote** CTO na idwall
 - **Robson Marques** CEO na Rocketseat
 - **Alan Batista** Fundador da Rebase
-- **Renato Feder** Secretário da Educação do Paraná 
-- **João Almeida** Fundador da Campus Code 
+- **Renato Feder** Secretário da Educação do Paraná
+- **João Almeida** Fundador da Campus Code
 - **Tatiana Di Rienzo** Fundadora da Remotar
 - **Vinicius Bufoni** CTO na Vindi
 - **Wesley Willians** CEO na Full Cycle
