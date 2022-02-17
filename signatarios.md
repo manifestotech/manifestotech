@@ -23,3 +23,9 @@
 - **Wesley Willians** CEO na Full Cycle
 - **Caio Rodrigues** CEO na Toti Diversidade
 - **Gabriel Ferreira** CTO na Coodesh
+- **Vinicius Mesel** CEO na Pluo
+- **Lucas Silvério** Arquiteto de Software na Norge Labs
+- **Daniel Wildt** CTO na uMov.me
+- **Michel Banagouro** CTO na Leanwork Group
+- **Ricardo Potalara** Diretor na Informática Tecnologia e Sistemas de Automação LTDA
+- **Guilherme Rodrigues** Fundador na Movimento Tech
