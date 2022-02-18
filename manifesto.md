@@ -8,4 +8,4 @@ Estamos descobrindo maneiras melhores de lidar com a forte expansão do setor de
 
 - Habilitar essas pessoas a **entregarem valor** em projetos reais.
 
-Com esses valores, enxergamos crescimento saudável para pessoas, empresas e mercado.
+Com esses valores, acreditamos em inclusão e crescimento saudável para pessoas, empresas e mercado.
