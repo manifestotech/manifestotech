@@ -7,11 +7,11 @@
 
 <details>
 <summary>Na prática, como posso implementar o Manifesto Tech na minha empresa?</summary>
-<p>Seguindo os três valores da forma mais próxima possível. Sabemos que, a curto prazo, a contratação de pessoas em desenvolvimento pode gerar entregas que não atendem inteiramente às expectativas do seu planejamento atual, e que as stacks mais comuns talvez não sejam as melhores para a sua equipe e projeto.</p>
+<p>Seguindo os três valores da forma mais próxima possível. Sabemos que a curto prazo a contratação de pessoas em desenvolvimento pode gerar entregas que não atendem inteiramente às expectativas do seu planejamento atual e que as stacks mais comuns talvez não sejam as melhores para a sua equipe e projeto.</p>
 
-<p>O Manifesto, no entanto,  não é um checklist tampouco um framework - e isso significa que você pode implementá-lo de diferentes formas. Queremos, inclusive, construir em conjunto. O que você está fazendo para combater a escassez de talentos e pessoas em tech? Como está dando oportunidades para mais pessoas de dentro e de fora da empresa? Nós queremos aprender com você.</p>
+<p>O Manifesto, no entanto, não é um checklist tampouco um framework - e isso significa que você pode implementá-lo de diferentes formas. Queremos, inclusive, construir em conjunto. O que você está fazendo para combater a escassez de talentos e pessoas em tech? Como está dando oportunidades para mais pessoas de dentro e de fora da empresa? Nós queremos aprender com você.</p>
 
-<p>A médio prazo, o tamanho e a senioridade (média) do seu time vai depender muito do sucesso da sua implementação do Manifesto. E a diversidade tem papel fundamental para essa implementação.</p>
+<p>A médio prazo o tamanho e a senioridade (média) do seu time vai depender muito do sucesso da sua implementação do Manifesto. E a diversidade tem papel fundamental para essa implementação.</p>
 </details>
 
 <details>
@@ -55,4 +55,3 @@
 
 <p>Apesar do mundo todo, de uma forma ou de outra, enfrentar neste momento escassez de mão de obra de tecnologia, o Brasil tem uma questão mais crônica. É uma incoerência sofrer com falta de profissionais enquanto temos tantos desempregados e subempregados. Por outro lado, é uma oportunidade de desenvolvimento e transformação social. O Manifesto aponta nesta direção.</p>
 </details>
-
