@@ -17,7 +17,7 @@
 <details>
 <summary>Por que a diversidade é importante e qual a relação com o Manifesto?</summary>
 <p>A necessidade de mais profissionais no mercado de tecnologia é uma oportunidade única de preencher esses espaços de forma mais diversa. De fazer diferente do que historicamente é quase sempre feito.</p>
-<p>A tecnologia como profissão pode ter menos barreiras de entrada que a maioria das outras profissões do mesmo patamar de remuneração. Isso se empresas e o mercado abraçarem como valor fundamental essa transformação social. Por isso o Manifesto.</p>
+<p>A tecnologia como profissão pode ter menos barreiras de entrada que a maioria das outras profissões do mesmo patamar de remuneração. Isso se empresas e o mercado abraçarem como valor fundamental essa transformação social. Por isso o Manifesto foi criado.</p>
 <p>Praticar a diversidade exige preparar seus times e a cultura organizacional para efetivamente receber pessoas diversas. Pessoas diversas partem de pontos diferentes, é preciso compreensão, apoio e acompanhamento para o contexto de cada um. Isso é inclusão verdadeira.</p>
 <p>A inclusão de grupos sub-representados leva a um futuro mais justo. Mas vamos além: times, empresas e o mercado com mais diversidade são essenciais para resolver os desafios mais complexos do mundo da tecnologia.</p>
 </details>
@@ -43,7 +43,7 @@
 
 <details>
 <summary>Onde está o repositório?</summary>
-<p>Todo texto, conteúdo e este site estão publicados no Github no repositório <a href="https://github.com/manifestotech/manifestotech">manifestotech/manifestotech</a>. Issues com correções são bem vindas.</p>
+<p>Todo texto, conteúdo e este site estão publicados no Github no repositório <a href="https://github.com/manifestotech/manifestotech">manifestotech/manifestotech</a>. Issues com correções são bem-vindas.</p>
 </details>
 
 
