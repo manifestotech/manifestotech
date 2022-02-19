@@ -11,7 +11,7 @@
 
 <p>O Manifesto, no entanto, não é um checklist tampouco um framework - e isso significa que você pode implementá-lo de diferentes formas. Queremos, inclusive, construir em conjunto. O que você está fazendo para combater a escassez de talentos e pessoas em tech? Como está dando oportunidades para mais pessoas de dentro e de fora da empresa? Nós queremos aprender com você.</p>
 
-<p>A médio prazo o tamanho e a senioridade (média) do seu time vai depender muito do sucesso da sua implementação do Manifesto. E a diversidade tem papel fundamental para essa implementação.</p>
+<p>A médio prazo, o tamanho e a senioridade (média) do seu time vai depender muito do sucesso da sua implementação do Manifesto. E, a diversidade tem papel fundamental para essa implementação.</p>
 </details>
 
 <details>
