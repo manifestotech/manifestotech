@@ -1,7 +1,7 @@
 ---
 name: Novo signatário
 about: Quero assinar o Manifesto com minha empresa ou organização
-title: "[SIGNATÁRIO] EmpresaX"
+title: "NOME_DA_EMPRESA_OU_ORGANIZACAO"
 labels: signatario
 ---
 
@@ -11,5 +11,5 @@ Pessoa signatária:
 
 Cargo ou papel: 
 
-Como sua empresa aplica os Princípios do Manifesto hoje?
+URL da empresa sobre sua abordagem do Manifesto: 
 
