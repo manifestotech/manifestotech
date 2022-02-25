@@ -33,7 +33,7 @@
 <details>
 <summary>Como minha empresa pode assinar o Manifesto?</summary>
 <p>Empresas e organizações podem se tornar signatárias do Manifesto submetendo sua candidatura. Muito mais importante que concordar com os valores e princípios é efetivamente vivenciar na prática, ou ao menos ter um plano de ação concreto. Queremos saber sua visão sobre o Manifesto e suas iniciativas para implementá-lo.</p>
-<p>Você pode submeter sua assinatura <a href="https://github.com/manifestotech/manifestotech/issues/new/choose">abrindo uma issue</a> no repositório do Manifesto.</p>
+<p>Veja mais detalhes no <a href="https://github.com/manifestotech/manifestotech#minha-empresa-ou-organiza%C3%A7%C3%A3o-gostaria-de-fazer-parte-do-manifesto-como-signat%C3%A1rios">repositório do Manifesto</a>.</p>
 </details>
 
 <details>
