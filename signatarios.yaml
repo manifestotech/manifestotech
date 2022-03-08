@@ -16,6 +16,11 @@
   data_assinatura: 2022-02-17
   implementacao: https://medium.com/inside-picpay/por-que-o-picpay-assinou-o-manifestotech-bf0ccd281373
 
+- nome: Victor Cavalcante
+  cargo: CEO na Lambda3
+  data_assinatura: 2022-02-17
+  implementacao: https://www.lambda3.com.br/2022/02/lambda3-podcast-esp02-manifesto-tech-e-lambda3/
+
 - nome: Alberto Souza
   cargo: CTO People na Zup
   data_assinatura: 2022-02-17
@@ -40,10 +45,6 @@
   cargo: CEO na Cubos Academy
   data_assinatura: 2022-02-17
 
-- nome: Victor Cavalcante
-  cargo: CEO na Lambda3
-  data_assinatura: 2022-02-17
-
 - nome: Felipe Matos
   cargo: CEO na Sirius
   data_assinatura: 2022-02-17
@@ -56,16 +57,8 @@
   cargo: CTO na idwall
   data_assinatura: 2022-02-17
 
-- nome: Robson Marques
-  cargo: CEO na Rocketseat
-  data_assinatura: 2022-02-17
-
 - nome: Alan Batista
   cargo: Fundador da Rebase
-  data_assinatura: 2022-02-17
-
-- nome: Renato Feder
-  cargo: Secretário da Educação do Paraná
   data_assinatura: 2022-02-17
 
 - nome: João Almeida
@@ -78,19 +71,37 @@
   data_assinatura: 2022-02-17
   implementacao: https://remotar.com.br/como-a-nossa-historia-nos-levou-ao-manifesto/
 
+- nome: Caio Rodrigues
+  cargo: CEO na Toti Diversidade
+  data_assinatura: 2022-02-17
+
+- nome: Alex Freire
+  cargo: CTO na Sami Saúde
+  data_assinatura: 2022-03-08
+  implementacao: https://www.linkedin.com/feed/update/urn:li:activity:6905620691664920576/
+
+- nome: Gabriel Ferreira
+  cargo: CTO na Coodesh
+  implementacao: https://coodesh.com/blog/noticias/o-que-e-manifesto-tech/
+  data_assinatura: 2022-02-17
+
+- nome: Mariana Carvalho
+  cargo: Co-fundadora da Brazilians in Tech
+  data_assinatura: 2022-03-08
+  implementacao: https://braziliansintech.com/
+
+- nome: Robson Marques
+  cargo: CEO na Rocketseat
+  data_assinatura: 2022-02-17
+
+- nome: Renato Feder
+  cargo: Secretário da Educação do Paraná
+  data_assinatura: 2022-02-17
+
 - nome: Vinicius Bufoni
   cargo: CTO na Vindi
   data_assinatura: 2022-02-17
 
 - nome: Wesley Willians
   cargo: CEO na Full Cycle
-  data_assinatura: 2022-02-17
-
-- nome: Caio Rodrigues
-  cargo: CEO na Toti Diversidade
-  data_assinatura: 2022-02-17
-
-- nome: Gabriel Ferreira
-  cargo: CTO na Coodesh
-  implementacao: https://coodesh.com/blog/noticias/o-que-e-manifesto-tech/
   data_assinatura: 2022-02-17
