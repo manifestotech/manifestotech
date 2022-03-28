@@ -21,18 +21,33 @@
   data_assinatura: 2022-02-17
   implementacao: https://www.lambda3.com.br/2022/02/lambda3-podcast-esp02-manifesto-tech-e-lambda3/
 
-- nome: Alberto Souza
-  cargo: CTO People na Zup
-  data_assinatura: 2022-02-17
-
-- nome: Marcell Almeida
-  cargo: CEO na PM3
-  data_assinatura: 2022-02-17
+- nome: Thiago Barradas
+  cargo: Engineering Manager na Stone
+  data_assinatura: 2022-03-28
+  implementacao: https://blog.stone.com.br/nossa-historia-e-nosso-apoio-ao-manifesto-tech/
 
 - nome: Samanta Cicilia
   cargo: Head de Engenharia na Pagar.me
   data_assinatura: 2022-03-18
   implementacao: https://www.linkedin.com/posts/pagar-me_manifestotech-tecnologia-oportunidades-activity-6909622368919277569-u9XR/
+
+- nome: Alberto Souza
+  cargo: CTO People na Zup
+  data_assinatura: 2022-02-17
+
+- nome: Alan Batista
+  cargo: Fundador da Rebase
+  data_assinatura: 2022-02-17
+  implementacao: https://www.youtube.com/watch?v=lxrYRN-8U6w
+
+- nome: João Almeida
+  cargo: Fundador da Campus Code
+  implementacao: https://campuscode.com.br/conteudos/porque-apoiamos-o-manifesto-tech
+  data_assinatura: 2022-02-17
+
+- nome: Marcell Almeida
+  cargo: CEO na PM3
+  data_assinatura: 2022-02-17
 
 - nome: Robson Rodrigues
   cargo: CTO na Gupy
@@ -60,15 +75,6 @@
 
 - nome: Gabriel Massote
   cargo: CTO na idwall
-  data_assinatura: 2022-02-17
-
-- nome: Alan Batista
-  cargo: Fundador da Rebase
-  data_assinatura: 2022-02-17
-
-- nome: João Almeida
-  cargo: Fundador da Campus Code
-  implementacao: https://campuscode.com.br/conteudos/porque-apoiamos-o-manifesto-tech
   data_assinatura: 2022-02-17
 
 - nome: Tatiana Di Rienzo
