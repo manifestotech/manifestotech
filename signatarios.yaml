@@ -69,6 +69,16 @@
   cargo: CEO na Sirius
   data_assinatura: 2022-02-17
 
+- nome: André Faria
+  cargo: CEO na Bluesoft
+  data_assinatura: 2022-03-29
+  implementacao: https://www.youtube.com/watch?v=nZd6Bl7ofyo
+
+- nome: Fabio Camara
+  cargo: CEO na FCamara
+  data_assinatura: 2022-03-29
+  implementacao: https://digital.fcamara.com.br/programadeformacao
+
 - nome: Tomás Ferrari
   cargo: CEO da GeekHunter
   data_assinatura: 2022-02-17
@@ -121,3 +131,13 @@
 - nome: Wesley Willians
   cargo: CEO na Full Cycle
   data_assinatura: 2022-02-17
+
+- nome: André Coelho
+  cargo: CEO na Techzei
+  data_assinatura: 2022-03-28
+  implementacao: https://www.techzei.com.br/
+
+- nome: Gabriel Vieira Flores
+  cargo: CEO na MoreDeve
+  data_assinatura: 2022-03-28
+  implementacao: https://moredeve.com/
