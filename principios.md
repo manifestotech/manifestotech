@@ -14,7 +14,7 @@
 
 - Pessoas mais experientes são fundamentais no acompanhamento de pessoas em desenvolvimento. Seu papel também é apoiar, ensinar, inspirar e multiplicar.
 
-- Novas pessoas são capazes de entregar valor rapidamente em projetos reais se apoiadas e habilitadas para isso.
+- Novas pessoas são capazes de contribuir rapidamente em projetos reais se apoiadas e habilitadas para isso.
 
 - Projetos e processos precisam ser acolhedores e acessíveis para quem está começando. Evitar complexidade diminui barreiras na entrada de novas pessoas.
 
