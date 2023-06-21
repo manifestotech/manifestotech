@@ -6,6 +6,6 @@ Estamos descobrindo maneiras melhores de lidar com a forte expansão do setor de
 
 - Promover cultura de **crescimento** com **aprendizado** contínuo.
 
-- Habilitar essas pessoas a **entregarem valor** em projetos reais.
+- Habilitar essas pessoas a **contribuir de maneira efetiva** em projetos reais.
 
 Com esses valores, pretendemos mais inclusão e crescimento saudável para pessoas, empresas e mercado.
